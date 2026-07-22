@@ -1,0 +1,8 @@
+{
+    "name": "dany",
+    "deposit": 1000,
+    "risk_percent": 2,
+    "strategy": "MA + RSI + ADX",
+    "daily_loss_limit": 3,
+    "daily_profit_target": 6
+}
