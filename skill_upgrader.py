@@ -3,7 +3,6 @@ import shutil
 import py_compile
 from datetime import datetime
 
-from ai_brain import ask_ai
 from update_log import add_update
 from action_log import add_action
 

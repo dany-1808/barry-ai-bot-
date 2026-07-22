@@ -1,5 +1,4 @@
 from goals import save_goal, get_goal
-from ai_brain import ask_ai
 
 
 def run(text):

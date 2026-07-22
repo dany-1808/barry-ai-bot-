@@ -1,4 +1,3 @@
-from ai_brain import ask_ai
 from action_log import add_action
 from update_log import add_update
 

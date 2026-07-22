@@ -1,5 +1,4 @@
 from action_log import add_action
-from ai_brain import ask_ai
 from skill_manager import skill_manager
 from task_memory import save_context, get_context
 from skills.development_memory import save_development

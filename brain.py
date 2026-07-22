@@ -1,6 +1,5 @@
 from memory import remember, recall, load_memory
 from datetime import datetime
-from ai_brain import ask_ai
 from skill_manager import skill_manager
 
 
